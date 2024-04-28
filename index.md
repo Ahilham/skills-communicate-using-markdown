@@ -1,6 +1,6 @@
 # Hello World
 
-I have editted a markdown file.
+I have edited a markdown file.
 
 ``` python
 def function():
