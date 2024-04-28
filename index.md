@@ -2,5 +2,10 @@
 
 I have editted a markdown file.
 
+``` python
+def function():
+  addition = 1+1
+  return addition
+```
 
 ![image of godotcat](https://octodex.github.com/images/godotocat.png)
